@@ -1,0 +1,7 @@
+# 1. 匹配主域名及其所有子域名（强烈推荐，最前面加一个 + 号）
++.openai.com
++.netflix.com
++.hbo.com
+
+# 2. 仅精确匹配特定子域名（不加 + 号）
+www.disneyplus.com
