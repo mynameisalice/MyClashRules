@@ -1,8 +1,8 @@
 # 这里写你想让它走特定节点的域名，每行一个
 # 支持根域名，会自动包含所有子域名
-missav.ws
-missav.run
-javdb.com
++.missav.ws
++.missav.run
++.javdb.com
 
 # 支持带 + 号的统配写法
 # +.wikipedia.org
