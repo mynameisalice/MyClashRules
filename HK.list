@@ -2,6 +2,7 @@
 # 支持根域名，会自动包含所有子域名
 +.javdb.com
 +.cmoney.cc
++.cmoney.tw
 
 # 支持带 + 号的统配写法
 # +.wikipedia.org
