@@ -14,6 +14,8 @@
 # === 长桥证券 (Longbridge) 核心通信域名 ===
 +.api.lbkrs.com
 +.api-gl.lbkrs.com
++.lbkrs.com
++.lbctrl.com
 +.longbridge.hk
 +.longbridgeapp.com
 +.longbridge.sg
